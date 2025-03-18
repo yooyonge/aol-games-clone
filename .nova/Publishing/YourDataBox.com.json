@@ -1,0 +1,11 @@
+{
+  "identifier" : "A1CE770C-3D24-4F47-A9CA-DDD779E83003",
+  "ignoredFilePatterns" : [
+    "*.yaml"
+  ],
+  "localPath" : ".",
+  "remotePath" : "\/aol\/games",
+  "remoteURL" : "https:\/\/yourdatabox.com\/aol\/games\/",
+  "server" : "YourDataBox.com",
+  "usesPublishing" : true
+}
